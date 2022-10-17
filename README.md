@@ -1,8 +1,10 @@
 # MORU React Assignment
 
-## Repository
+Project created as part of the MORU Digital's evaluation process. It uses Next.js, Typescript & Ant Design.
 
-## Hosted Site :
+### Repository: [https://github.com/raaznn/moru-react-assignment](https://github.com/raaznn/moru-react-assignment)
+
+### Hosted Site: [https://moru-react-assignment.vercel.app/](https://moru-react-assignment.vercel.app/)
 
 <br>
 
